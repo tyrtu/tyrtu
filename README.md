@@ -77,8 +77,8 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 ### 🧠 [Synapse](https://github.com/tyrtu/Synapse)
 *In Progress*
 
-<img src="./demo/synapse/205shots_so.png" width="100%"/>
-<img src="./demo/synapse/732shots_so.png" width="100%"/>
+<img src="./demo/synapse/205shots_so.png" width="48%"/>
+<img src="./demo/synapse/732shots_so.png" width="48%"/>
 
 An AI-powered flashcard and spaced repetition app with streak tracking and study analytics.
 
@@ -92,27 +92,8 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 </td>
 <td width="50%" valign="top">
 
-### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate)
-*2026*
-
-<img src="./demo/stake-checkmate/chessstake-screenshot.png" width="100%"/>
-
-Players stake money on chess matches and compete live on Lichess; the winner automatically receives the funds.
-
-- 💸 Pre-match staking
-- ♟️ Real matches via Lichess API
-- 🤖 Automatic result tracking & payouts
-- 🔌 AI-assisted development
-
-`React` `Node.js` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID)
-*2024*
+*2025*
 
 <img src="./demo/EHR/health-id-screenshot.png" width="100%"/>
 
@@ -125,6 +106,8 @@ Lets emergency responders quickly find patient information (blood type, allergie
 `React` `Node.js` `MongoDB` `Tailwind CSS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏠 [Rental Property Management System](https://github.com/tyrtu/property-mgmt)
@@ -139,6 +122,23 @@ An app for landlords to list rental units, track tenants, and manage rent paymen
 - 💰 Rent payment records
 
 `React` `Node.js` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate)
+*2026* &nbsp;·&nbsp; [**🚀 Live Demo**](https://stake-checkmate-production.up.railway.app/)
+
+<img src="./demo/stake-checkmate/chessstake-screenshot.png" width="100%"/>
+
+Players stake money on chess matches and compete live on Lichess; the winner automatically receives the funds.
+
+- 💸 Pre-match staking
+- ♟️ Real matches via Lichess API
+- 🤖 Automatic result tracking & payouts
+- 🔌 AI-assisted development
+
+`React` `Node.js` `Supabase`
 
 </td>
 </tr>
