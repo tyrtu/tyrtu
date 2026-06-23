@@ -97,7 +97,7 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 
 <img src="./demo/EHR/health-id-screenshot.png" width="100%"/>
 
-Lets emergency responders quickly find patient information (blood type, allergies, conditions) by scanning a QR code.
+Lets emergency responders quickly find patient information (blood type, allergies, conditions) by scanning a QR code
 
 - 📷 QR code scanning
 - ✏️ Editable patient records
