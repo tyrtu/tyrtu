@@ -70,15 +70,14 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🧠 [Synapse](https://github.com/tyrtu/Synapse)
-*In Progress*
+### 🧠 [Synapse](https://github.com/tyrtu/Synapse) — *In Progress*
 
-<img src="./demo/synapse/205shots_so.png" width="48%"/>
-<img src="./demo/synapse/732shots_so.png" width="48%"/>
+<p align="center">
+  <img src="./demo/synapse/205shots_so.png" width="48%"/>
+  <img src="./demo/synapse/732shots_so.png" width="48%"/>
+</p>
 
 An AI-powered flashcard and spaced repetition app with streak tracking and study analytics.
 
@@ -89,47 +88,13 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 
 `React Native` `Expo` `Appwrite` `NativeWind`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID)
-*2025*
+### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate) — *2026* &nbsp;·&nbsp; [**🚀 Live Demo**](https://stake-checkmate-production.up.railway.app/)
 
-<img src="./demo/EHR/health-id-screenshot.png" width="100%"/>
-
-Lets emergency responders quickly find patient information (blood type, allergies, conditions) by scanning a QR code.
-
-- 📷 QR code scanning
-- ✏️ Editable patient records
-- 🔐 Separate patient / staff login flows
-
-`React` `Node.js` `MongoDB` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Rental Property Management System](https://github.com/tyrtu/property-mgmt)
-*2024*
-
-<img src="./demo/rental/rental-screenshot.png" width="100%"/>
-
-An app for landlords to list rental units, track tenants, and manage rent payments.
-
-- 🏘️ Property & unit management
-- 👤 Tenant tracking
-- 💰 Rent payment records
-
-`React` `Node.js` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate)
-*2026* &nbsp;·&nbsp; [**🚀 Live Demo**](https://stake-checkmate-production.up.railway.app/)
-
-<img src="./demo/stake-checkmate/chessstake-screenshot.png" width="100%"/>
+<p align="center">
+  <img src="./demo/stake-checkmate/chessstake-screenshot.png" width="90%"/>
+</p>
 
 Players stake money on chess matches and compete live on Lichess; the winner automatically receives the funds.
 
@@ -140,9 +105,39 @@ Players stake money on chess matches and compete live on Lichess; the winner aut
 
 `React` `Node.js` `Supabase`
 
-</td>
-</tr>
-</table>
+---
+
+### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID) — *2025*
+
+<p align="center">
+  <img src="./demo/EHR/health-id-screenshot.png" width="90%"/>
+</p>
+
+Lets emergency responders quickly find patient information (blood type, allergies, conditions) by scanning a QR code.
+
+- 📷 QR code scanning
+- ✏️ Editable patient records
+- 🔐 Separate patient / staff login flows
+
+`React` `Node.js` `MongoDB` `Tailwind CSS`
+
+---
+
+### 🏠 [Rental Property Management System](https://github.com/tyrtu/property-mgmt) — *2024*
+
+<p align="center">
+  <img src="./demo/rental/rental-screenshot.png" width="90%"/>
+</p>
+
+An app for landlords to list rental units, track tenants, and manage rent payments.
+
+- 🏘️ Property & unit management
+- 👤 Tenant tracking
+- 💰 Rent payment records
+
+`React` `Node.js` `Firebase`
+
+---
 
 <br/>
 
@@ -150,10 +145,11 @@ Players stake money on chess matches and compete live on Lichess; the winner aut
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tyrtu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=15151C&title_color=7C3AED&icon_color=3FCF8E&text_color=F5F5F7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrtu&layout=compact&theme=tokyonight&hide_border=true&bg_color=15151C&title_color=7C3AED&text_color=F5F5F7" />
+<img src="https://github-readme-stats.vercel.app/api?username=tyrtu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=15151C&title_color=7C3AED&icon_color=3FCF8E&text_color=F5F5F7" width="95%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyrtu&theme=tokyonight&hide_border=true&background=15151C&ring=7C3AED&fire=3FCF8E&currStreakLabel=F5F5F7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrtu&layout=compact&theme=tokyonight&hide_border=true&bg_color=15151C&title_color=7C3AED&text_color=F5F5F7" width="95%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyrtu&theme=tokyonight&hide_border=true&background=15151C&ring=7C3AED&fire=3FCF8E&currStreakLabel=F5F5F7" width="95%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyrtu&theme=tokyo-night&hide_border=true&bg_color=15151C&color=7C3AED&line=3FCF8E&point=F5F5F7" width="95%"/>
 
