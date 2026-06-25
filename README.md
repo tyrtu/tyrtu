@@ -107,7 +107,7 @@ Players stake money on chess matches and compete live on Lichess; the winner aut
 
 ---
 
-### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID) — *2025*
+### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID) — *2025* &nbsp;·&nbsp; [**🚀 Live Demo**](https://emmergency-digital-healthid.vercel.app/)
 
 <p align="center">
   <img src="./demo/EHR/health-id-screenshot.png" width="90%"/>
