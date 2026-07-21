@@ -75,8 +75,7 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 ### 🧠 [Synapse](https://github.com/tyrtu/Synapse) — *In Progress*
 
 <p align="center">
-  <img src="./demo/synapse/205shots_so.png" width="48%"/>
-  <img src="./demo/synapse/732shots_so.png" width="48%"/>
+  <img src="./demo/synapse/screens.png" width="90%"/>
 </p>
 
 An AI-powered flashcard and spaced repetition app with streak tracking and study analytics.
