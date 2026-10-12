@@ -89,6 +89,23 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 
 ---
 
+### 📈 [APEX Trading Lab](https://github.com/suhark/APEX) — *2026* &nbsp;·&nbsp; [**🚀 Live App**](https://apextradinglab.app/)
+
+<p align="center">
+  <img src="./demo/apex/apex-screenshot.png" width="90%"/>
+</p>
+
+An algorithmic execution terminal for synthetic volatility index trading, with built-in risk guardrails and a live Deriv connection.
+
+- 📊 Manual trading terminal with tick charts and Rise/Fall contracts
+- 🤖 Algorithmic bots, Signal AI, bulk trading, and multi-signal strategies
+- 🛡️ Configurable session loss guardrail that stops bots automatically
+- 🔐 Account context isolation and multi-step live trading arming
+
+`React` `TypeScript` `Vite` `Supabase` `Deriv API`
+
+---
+
 ### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate) — *2026* &nbsp;·&nbsp; [**🚀 Live Demo**](https://stake-checkmate-production.up.railway.app/)
 
 <p align="center">
