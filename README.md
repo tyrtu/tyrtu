@@ -72,6 +72,19 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 
 ---
 
+### 📈 <a href="https://github.com/tyrtu/APEX">APEX Trading Lab</a> — *Current* &nbsp;·&nbsp; <a href="https://apex-apex-cf31.vercel.app/">**🚀 Live Demo**</a>
+
+An algorithmic execution terminal for synthetic volatility index trading with built-in risk guardrails.
+
+- 📊 Manual and automated Deriv trading
+- 🤖 Algorithmic bots and AI-assisted market signals
+- 🛡️ Session loss guardrails and live-trading confirmations
+- ⚡ Built with React, TypeScript, Vite, Supabase, and the Deriv API
+
+`React` `TypeScript` `Vite` `Supabase` `Deriv API`
+
+---
+
 ### 🧠 [Synapse](https://github.com/tyrtu/Synapse) — *In Progress*
 
 <p align="center">
