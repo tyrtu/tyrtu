@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3FCF8E&height=200&section=header&text=Raphael%20Achando%20Kenyoru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
@@ -7,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/tyrtu">
-  <img src="https://komarev.com/ghpvc/?username=tyrtu&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=tyrtu&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 </a>
 <img src="https://img.shields.io/github/followers/tyrtu?label=Followers&style=for-the-badge&color=7C3AED" />
 
@@ -75,7 +76,7 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 ### 🧠 [Synapse](https://github.com/tyrtu/Synapse) — *In Progress*
 
 <p align="center">
-  <img src="./demo/synapse/screens.png" width="90%"/>
+<img src="./demo/synapse/screens.png" width="90%"/>
 </p>
 
 An AI-powered flashcard and spaced repetition app with streak tracking and study analytics.
@@ -89,21 +90,15 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 
 ---
 
----
-
 ### 🍽️ [TableKey](https://github.com/tyrtu/TableKey) — *2026*
 
 <p align="center">
-  <img src="./demo/tablekey/customer_panel.png" width="90%"/>
+<img src="./demo/tablekey/customer_panel.png" width="85%" height="320" style="object-fit:contain;"/>
 </p>
 
-A full-stack QR-code restaurant ordering and management platform that connects customers,
-waiters, kitchen staff, and managers in one real-time workflow.
+A full-stack QR-code restaurant ordering and management platform that connects customers, waiters, kitchen staff, and managers in one real-time workflow.
 
-Customers can scan a table QR code, browse the menu without installing an app, request waiter
-approval, place orders, track their order status, and pay their bill. Restaurant staff receive
-role-specific workspaces for floor management, kitchen operations, billing, staff management,
-planning, and reporting.
+Customers can scan a table QR code, browse the menu without installing an app, request waiter approval, place orders, track their order status, and pay their bill. Restaurant staff receive role-specific workspaces for floor management, kitchen operations, billing, staff management, planning, and reporting.
 
 - 📱 QR-based customer ordering with no app installation
 - 🔐 Waiter-approved presence verification before ordering
@@ -117,21 +112,22 @@ planning, and reporting.
 - 📲 Shared-device authentication for waiters and kitchen staff
 
 <p align="center">
-  <img src="./demo/tablekey/waiter_panel.png" width="48%"/>
-  <img src="./demo/tablekey/kitchen_display.png" width="48%"/>
+<img src="./demo/tablekey/waiter_panel.png" width="48%" height="240" style="object-fit:contain;"/>
+<img src="./demo/tablekey/kitchen_display.png" width="48%" height="240" style="object-fit:contain;"/>
 </p>
 
 <p align="center">
-  <img src="./demo/tablekey/manager_panel.png" width="90%"/>
+<img src="./demo/tablekey/manager_panel.png" width="85%" height="320" style="object-fit:contain;"/>
 </p>
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Supabase` `PostgreSQL` `Realtime`
+
 ---
 
 ### 📈 [APEX Trading Lab](https://github.com/suhark/APEX) — *2026* &nbsp;·&nbsp; [**🚀 Live App**](https://apextradinglab.app/)
 
 <p align="center">
-  <img src="./demo/apex/apex-screenshot.png" width="90%"/>
+<img src="./demo/apex/apex-screenshot.png" width="90%"/>
 </p>
 
 An algorithmic execution terminal for synthetic volatility index trading, with built-in risk guardrails and a live Deriv connection.
@@ -145,10 +141,10 @@ An algorithmic execution terminal for synthetic volatility index trading, with b
 
 ---
 
-### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate) — *2026* &nbsp;·&nbsp;
+### ♟️ [Skill-Based Chess Staking Platform](https://github.com/tyrtu/stake-checkmate) — *2026*
 
 <p align="center">
-  <img src="./demo/stake-checkmate/chessstake-screenshot.png" width="90%"/>
+<img src="./demo/stake-checkmate/chessstake-screenshot.png" width="90%"/>
 </p>
 
 Players stake money on chess matches and compete live on Lichess; the winner automatically receives the funds.
@@ -162,10 +158,10 @@ Players stake money on chess matches and compete live on Lichess; the winner aut
 
 ---
 
-### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID) — *2025* &nbsp;·&nbsp; 
+### 🩺 [Emergency Digital Health ID System](https://github.com/tyrtu/EMMERGENCY-DIGITAL-HEALTH-ID) — *2025*
 
 <p align="center">
-  <img src="./demo/EHR/health-id-screenshot.png" width="90%"/>
+<img src="./demo/EHR/health-id-screenshot.png" width="90%"/>
 </p>
 
 Lets emergency responders quickly find patient information (blood type, allergies, conditions) by scanning a QR code.
@@ -181,7 +177,7 @@ Lets emergency responders quickly find patient information (blood type, allergie
 ### 🏠 [Rental Property Management System](https://github.com/tyrtu/property-mgmt) — *2024*
 
 <p align="center">
-  <img src="./demo/rental/rental-screenshot.png" width="90%"/>
+<img src="./demo/rental/rental-screenshot.png" width="90%"/>
 </p>
 
 An app for landlords to list rental units, track tenants, and manage rent payments.
