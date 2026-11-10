@@ -94,7 +94,7 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 ### 🍽️ [TableKey](https://github.com/tyrtu/TableKey) — *2026*
 
 <p align="center">
-  <img src="./demo/tablekey/customer-panel.png" width="90%"/>
+  <img src="./demo/tablekey/customer_panel.png" width="90%"/>
 </p>
 
 A full-stack QR-code restaurant ordering and management platform that connects customers,
@@ -117,12 +117,12 @@ planning, and reporting.
 - 📲 Shared-device authentication for waiters and kitchen staff
 
 <p align="center">
-  <img src="./demo/tablekey/waiter-panel.png" width="48%"/>
-  <img src="./demo/tablekey/kitchen-display.png" width="48%"/>
+  <img src="./demo/tablekey/waiter-panel_png" width="48%"/>
+  <img src="./demo/tablekey/kitchen-display_png" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="./demo/tablekey/manager-panel.png" width="90%"/>
+  <img src="./demo/tablekey/manager-panel_png" width="90%"/>
 </p>
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Supabase` `PostgreSQL` `Realtime`
