@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3FCF8E&height=200&section=header&text=Raphael%20Achando%20Kenyoru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
@@ -10,6 +9,7 @@
 <a href="https://github.com/tyrtu">
 <img src="https://komarev.com/ghpvc/?username=tyrtu&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 </a>
+
 <img src="https://img.shields.io/github/followers/tyrtu?label=Followers&style=for-the-badge&color=7C3AED" />
 
 </div>
@@ -36,7 +36,9 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 <div align="center">
 
 **Languages**
+
 <br/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -44,7 +46,9 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frameworks & Libraries**
+
 <br/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -53,14 +57,18 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
 **Databases & Backend**
+
 <br/>
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 
 **Tools**
+
 <br/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -93,9 +101,9 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 ### 🍽️ [TableKey](https://github.com/tyrtu/TableKey) — *2026*
 
 <p align="center">
-  <img src="./demo/tablekey/customer_panel.png" width="34%" alt="TableKey Customer Mobile Interface"/>
+  <img src="./demo/tablekey/customer_panel.png" height="320" style="max-height:320px;width:auto;object-fit:contain;" alt="TableKey Customer Mobile Interface"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./demo/tablekey/waiter_panel.png" width="34%" alt="TableKey Waiter Mobile Interface"/>
+  <img src="./demo/tablekey/waiter_panel.png" height="320" style="max-height:320px;width:auto;object-fit:contain;" alt="TableKey Waiter Mobile Interface"/>
 </p>
 
 A full-stack QR-code restaurant ordering and management platform that connects customers, waiters, kitchen staff, and managers in one real-time workflow.
@@ -117,7 +125,7 @@ Customers can scan a table QR code, browse the menu without installing an app, r
 
 ---
 
-### 📈 [APEX Trading Lab](https://github.com/suhark/APEX) — *2026* &nbsp;·&nbsp; [**🚀 Live App**](https://apextradinglab.app/)
+### 📈 [APEX Trading Lab](https://github.com/suhark/APEX) — *2026*  ·  [**🚀 Live App**](https://apextradinglab.app/)
 
 <p align="center">
 <img src="./demo/apex/apex-screenshot.png" width="90%"/>
@@ -131,6 +139,33 @@ An algorithmic execution terminal for synthetic volatility index trading, with b
 - 🔐 Account context isolation and multi-step live trading arming
 
 `React` `TypeScript` `Vite` `Supabase` `Deriv API`
+
+---
+
+### 🏡 [Karibu Stay](https://github.com/tyrtu/Karibu-Stay) — *2026*
+
+<p align="center">
+  <img src="./demo/karibu-stay/guest_panel.png" height="400" style="max-height:400px;width:auto;object-fit:contain;" alt="Karibu Stay — Guest discovery view"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./demo/karibu-stay/host_panel.png" height="400" style="max-height:400px;width:auto;object-fit:contain;" alt="Karibu Stay — Host dashboard"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./demo/karibu-stay/listing_view.png" height="400" style="max-height:400px;width:auto;object-fit:contain;" alt="Karibu Stay — Listing detail"/>
+</p>
+
+A short-term rental marketplace built around African football tournament venues for the Africa On The Move 2027 tournament season. Guests discover and book accommodation close to the stadiums; hosts list and manage their properties.
+
+- 🗺️ Interactive Mapbox map with price-label pins that fly to the selected venue
+- 🏟️ Listings filtered by tournament venue, price range, property type, and guest count
+- ❤️ Favourites synced to account, with local storage fallback before sign-in
+- 📅 Booking request flow with date validation and live price breakdown
+- ⭐ Post-stay guest reviews after host marks stay complete
+- 🏠 Host dashboard — create, edit, publish listings with photo uploads
+- 📋 Booking management — confirm, decline, mark complete
+- 🔔 Pending booking badge on host nav link
+- 🛡️ Identity verification submission for hosts
+- 🔐 Supabase RLS on every table; booking writes go through an Edge Function
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Mapbox GL JS` `Supabase` `PostgreSQL` `Edge Functions`
 
 ---
 
@@ -211,4 +246,3 @@ An app for landlords to list rental units, track tenants, and manage rent paymen
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:7C3AED&height=120&section=footer" width="100%"/>
-
