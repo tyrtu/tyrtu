@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3FCF8E&height=200&section=header&text=Raphael%20Achando%20Kenyoru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Synapse+%E2%80%94+AI-powered+flashcards;Emergency+Digital+Health+ID+System;Skill-Based+Chess+Staking+Platform;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=TableKey+%E2%80%94+QR+restaurant+ordering+platform;Karibu+Stay+%E2%80%94+African+short-term+rental+marketplace;APEX+%E2%80%94+Algorithmic+trading+terminal;Building+products+that+work+in+the+real+world" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Expected 2027), learning full-stack web and app development. Over the past year I've built several practical projects — from digital health identity systems to property management platforms — focused on creating simple, working applications that solve real problems.
+I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Expected 2027), building full-stack products aimed at real problems in the African market. My projects tend to be multi-role systems — platforms where customers, staff, and administrators each get a workflow that actually fits them. I care about things working correctly in the hands of real users more than I care about how they look in a demo.
 
 ```
 🌍 Location     : Kisii, Kenya
