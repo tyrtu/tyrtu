@@ -98,7 +98,7 @@ An AI-powered flashcard and spaced repetition app with streak tracking and study
 
 ---
 
-### 🍽️ [TableKey](https://github.com/tyrtu/TableKey) — *2026*
+### 🍽️ [TableKey](https://github.com/tyrtu/TableKey) — *2026*  ·  [**🚀 Live App**](https://table-key.vercel.app/)
 
 <p align="center">
   <img src="./demo/tablekey/customer_panel.png" height="320" style="max-height:320px;width:auto;object-fit:contain;" alt="TableKey Customer Mobile Interface"/>
@@ -142,7 +142,7 @@ An algorithmic execution terminal for synthetic volatility index trading, with b
 
 ---
 
-### 🏡 [Karibu Stay](https://github.com/tyrtu/Karibu-Stay) — *2026*
+### 🏡 [Karibu Stay](https://github.com/tyrtu/Karibu-Stay) — *2026*  ·  [**🚀 Live App**](https://karibu-stay-puce.vercel.app/)
 
 <p align="center">
   <img src="./demo/karibu-stay/guest_panel.png" height="400" style="max-height:400px;width:auto;object-fit:contain;" alt="Karibu Stay — Guest discovery view"/>
