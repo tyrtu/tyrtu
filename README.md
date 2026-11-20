@@ -91,7 +91,7 @@ I'm a 4th-year **BSc Software Engineering** student at **Kisii University** (Exp
 
 ### 🧠 Synapse — *In Progress*
 
-[GitHub](https://github.com/tyrtu/Synapse)
+[GitHub](https://github.com/tyrtu/Synapse) · [Live App](https://web-synapse.vercel.app/)
 
 <p align="center">
 <img src="./demo/synapse/screens.png" width="90%" alt="Synapse app screens showing flashcard and study analytics UI"/>
